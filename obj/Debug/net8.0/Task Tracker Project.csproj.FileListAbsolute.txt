@@ -1,0 +1,14 @@
+H:\C#_iti\C# M D07\Task Tracker Project\bin\Debug\net8.0\Task Tracker Project.exe
+H:\C#_iti\C# M D07\Task Tracker Project\bin\Debug\net8.0\Task Tracker Project.deps.json
+H:\C#_iti\C# M D07\Task Tracker Project\bin\Debug\net8.0\Task Tracker Project.runtimeconfig.json
+H:\C#_iti\C# M D07\Task Tracker Project\bin\Debug\net8.0\Task Tracker Project.dll
+H:\C#_iti\C# M D07\Task Tracker Project\bin\Debug\net8.0\Task Tracker Project.pdb
+H:\C#_iti\C# M D07\Task Tracker Project\obj\Debug\net8.0\Task Tracker Project.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#_iti\C# M D07\Task Tracker Project\obj\Debug\net8.0\Task Tracker Project.AssemblyInfoInputs.cache
+H:\C#_iti\C# M D07\Task Tracker Project\obj\Debug\net8.0\Task Tracker Project.AssemblyInfo.cs
+H:\C#_iti\C# M D07\Task Tracker Project\obj\Debug\net8.0\Task Tracker Project.csproj.CoreCompileInputs.cache
+H:\C#_iti\C# M D07\Task Tracker Project\obj\Debug\net8.0\Task Tracker Project.dll
+H:\C#_iti\C# M D07\Task Tracker Project\obj\Debug\net8.0\refint\Task Tracker Project.dll
+H:\C#_iti\C# M D07\Task Tracker Project\obj\Debug\net8.0\Task Tracker Project.pdb
+H:\C#_iti\C# M D07\Task Tracker Project\obj\Debug\net8.0\Task Tracker Project.genruntimeconfig.cache
+H:\C#_iti\C# M D07\Task Tracker Project\obj\Debug\net8.0\ref\Task Tracker Project.dll
